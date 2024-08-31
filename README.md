@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ahmedsaleh1234
-- 👀 I’m interested in software devolping
+- 👀 I’m interested in Software development
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
